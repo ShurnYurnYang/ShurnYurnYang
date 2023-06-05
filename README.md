@@ -1,5 +1,6 @@
-# beep boop
 welcome to my profile
+
+i code mainly for personal learning, experimentation, and fun
 
 keeping it simple :)
 
