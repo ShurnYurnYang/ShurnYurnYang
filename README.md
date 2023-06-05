@@ -1,4 +1,4 @@
-welcome to my profile
+### welcome to my profile
 
 i mainly code for learning, experimentation, and fun
 
