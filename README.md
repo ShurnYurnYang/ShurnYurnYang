@@ -1,6 +1,6 @@
 welcome to my profile
 
-im a high schooler mainly coding for learning, experimentation, and fun
+i mainly code for learning, experimentation, and fun
 
 feel free to contact me through my linkedin!
 
