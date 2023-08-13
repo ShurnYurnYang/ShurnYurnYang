@@ -1,6 +1,6 @@
 ### welcome to my profile
 
-hi i am sean yang
+hi i am sean
 
 i mainly code for learning, experimentation, and fun
 
